@@ -1,0 +1,10 @@
+numpy
+transformers==4.40.0
+accelerate==0.29.3 
+pandas 
+scikit-learn
+torch
+torch.nn
+matplotlib
+scikit-learn
+ipywidgets
