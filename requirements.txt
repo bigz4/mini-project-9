@@ -1,6 +1,7 @@
 numpy
 transformers==4.40.0
 accelerate==0.29.3 
+datasets==2.19.0
 pandas 
 scikit-learn
 torch
