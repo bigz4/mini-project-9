@@ -4,8 +4,8 @@
  The project builds an automated content moderation classifier for SafeSpace AI that distinguishes between hate speech, offensive language, and neutral content in social media posts. It compares a traditional TF-IDF + Logistic Regression baseline against a fine-tuned DistilBERT transformer, finding that while both models achieve ~90% overall accuracy, both struggle to detect the minority hate speech class — a critical limitation addressed through a proposed three-tier human-in-the-loop moderation workflow.
 
 ## Dataset
-**Dataset title:** Twitter Hate Speech and Offensive Language Dataset
-**Source:** [GitHub](https://github.com/t-davidson/hate-speech-and-offensive-language)
+- **Dataset title:** Twitter Hate Speech and Offensive Language Dataset
+- **Source:** [GitHub](https://github.com/t-davidson/hate-speech-and-offensive-language)
 
 
 ## Setup instructions
